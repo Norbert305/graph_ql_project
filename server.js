@@ -118,3 +118,5 @@ app.use('/graphql', graphqlHTTP ({
 app.listen(5000, ()=>{
     console.log("Our server is running!!!!")
 })
+
+//npm run devStart
